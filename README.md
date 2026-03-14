@@ -30,19 +30,27 @@ Machine Learning • Data Analysis • AI
 ## 🛠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,matplotlib,react,vite,tailwind,css,js,ts&perline=4" />
-</p>
----
 
-## 📊 GitHub Statistics
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="50"/></td>
+</tr>
 
-<p align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="50"/></td>
+</tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cagarridoc&show_icons=true&theme=tokyonight"/>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagarridoc&layout=compact&theme=tokyonight"/>
-
-</p>
+</p>>
 
 ---
 
