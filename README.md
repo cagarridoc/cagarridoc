@@ -65,10 +65,22 @@ Machine Learning • Data Analysis • AI
 ---
 ## 📊 GitHub Stats
 
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cagarridoc&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagarridoc&layout=compact&theme=tokyonight&hide_border=true" width="420"/>
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cagarridoc&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagarridoc&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cagarridoc&theme=tokyonight&hide_border=true" width="420"/>
 </p>
