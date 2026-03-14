@@ -43,7 +43,7 @@ Machine Learning • Data Analysis • AI
 <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/></td>
 </tr>
 
 </table>
@@ -61,3 +61,14 @@ Machine Learning • Data Analysis • AI
 <a href="https://github.com/cagarridoc">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cagarridoc&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagarridoc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
