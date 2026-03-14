@@ -26,7 +26,7 @@ Español:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilogarridocorrotea/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-B0BEC5?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/cagarridoc/cagarridoc/)
+[![GitHub](https://img.shields.io/badge/GitHub-B0BEC5?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/cagarridoc)
 
 
 ## 🛠 Skills
