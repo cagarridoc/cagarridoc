@@ -79,8 +79,3 @@ Machine Learning • Data Analysis • AI
 </tr>
 </table>
 
-<br>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cagarridoc&theme=tokyonight&hide_border=true" width="420"/>
-</p>
