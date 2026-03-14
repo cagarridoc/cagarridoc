@@ -11,7 +11,7 @@ Machine Learning • Data Analysis
 
 🇬🇧 **English**
 
-- 🎂 20 years old  
+- 🎂 21 years old  
 - 🇨🇱 From Chile  
 - 🎓 Computer Science Engineer specialized in Data Science  
 - 🤖 Interested in Machine Learning, Deep Learning and Data Analysis  
@@ -19,7 +19,7 @@ Machine Learning • Data Analysis
 
 🇪🇸 **Español**
 
-- 🎂 20 años  
+- 🎂 21 años  
 - 🇨🇱 De Chile  
 - 🎓 Ingeniero en Informática con especialización en Ciencia de Datos  
 - 🤖 Interesado en Machine Learning, Deep Learning y análisis de datos  
