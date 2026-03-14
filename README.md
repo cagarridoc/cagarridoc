@@ -28,8 +28,6 @@ Machine Learning • Data Analysis • AI
 ---
 
 ## 🚀 Technologies
-
-## 🛠 Skills
 ## 🛠 Skills
 
 <p align="center">
@@ -37,7 +35,7 @@ Machine Learning • Data Analysis • AI
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
 <img src="https://img.shields.io/badge/TensorFlow-FFB74D?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-FCCF9B?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E"/>
-<img src="https://img.shields.io/badge/Pandas-9FA8DA?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458"/>
+<img src="https://img.shields.io/badge/Pandas-9FA8DA?style=for-the-badge&logo=pandas&logoColor=white&labelColor=white&labelColor=150458"/>
 
 <br><br>
 
