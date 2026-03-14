@@ -36,6 +36,7 @@ Machine Learning • Data Analysis
 <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="50"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50"/></td>
 </tr>
 
 <tr>
@@ -44,6 +45,7 @@ Machine Learning • Data Analysis
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="50"/></td>
 </tr>
 
 </table>
