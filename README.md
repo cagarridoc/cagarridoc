@@ -60,6 +60,8 @@ Machine Learning • Data Analysis
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<td width="30"></td>
+
 <a href="https://github.com/cagarridoc">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
