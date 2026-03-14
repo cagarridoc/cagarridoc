@@ -31,7 +31,7 @@ Machine Learning • Data Analysis • AI
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=Python,TensorFlow,Scikit-Learn,Pandas,Numpy,Polars,Matploitlib,Seaborn,"/>
 
 </p>
 
