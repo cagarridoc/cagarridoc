@@ -31,7 +31,20 @@ Machine Learning • Data Analysis • AI
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=Python,TensorFlow,Scikit-Learn,Pandas,Numpy,Polars,Matploitlib,Seaborn,"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-FFB74D?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-FCCF9B?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-9FA8DA?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-90CAF9?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243"/>
+<img src="https://img.shields.io/badge/Polars-8ED1FC?style=for-the-badge&logo=polars&logoColor=white&labelColor=2E3440"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Matplotlib-B3E5FC?style=for-the-badge&logo=plotly&logoColor=white&labelColor=11557C"/>
+<img src="https://img.shields.io/badge/Seaborn-80CBC4?style=for-the-badge&logo=python&logoColor=white&labelColor=2E7D6E"/>
 
 </p>
 
