@@ -29,9 +29,7 @@ Machine Learning • Data Analysis • AI
 
 ## 🛠 Skills
 
-<p align="center">
-
-<table>
+<table align="center">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/></td>
@@ -49,8 +47,6 @@ Machine Learning • Data Analysis • AI
 </tr>
 
 </table>
-
-</p>>
 
 ---
 
