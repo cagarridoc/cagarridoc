@@ -2,7 +2,7 @@
 
 <p align="center">
 Computer Science Engineer specialized in <b>Data Science</b> <br>
-Machine Learning • Data Analysis • AI
+Machine Learning • Data Analysis 
 </p>
 
 ---
